@@ -2,7 +2,7 @@
  Student Result Management System Using Java,BootStrap, JSP,Servlet,JDBC.
 
 
-- [Video Output of Project](https://youtube.com/playlist?list=PLdRq0mbeEBmwInxWeZI9SBoyw_Djb7aAZ&si=cIJXl9fNkVmf0lun))
+- [Video Output of Project](https://youtube.com/playlist?list=PLdRq0mbeEBmwInxWeZI9SBoyw_Djb7aAZ&si=cIJXl9fNkVmf0lun)
  
 ## Technologies Used
 
